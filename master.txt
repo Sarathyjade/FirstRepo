@@ -1,3 +1,3 @@
 touch master.txt created this folder
 notepad master.txt to open directly from gitbash
-	
+modified to check status	
